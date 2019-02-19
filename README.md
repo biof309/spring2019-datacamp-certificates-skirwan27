@@ -1,2 +1,2 @@
-hello hello hello \n
+hello hello hello
 hi hi hi
